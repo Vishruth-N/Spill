@@ -31,4 +31,4 @@ or just wanna remix the app for yourself go for it.
 
 The reflect feature uses a Python-based voice service. See [`voice_service/README.md`](voice_service/README.md) for setup instructions.
 
-make changes on a pr and we'll run on my end and then build a new version :).
+make changes on a pr and I'll run on my end and then build a new version :).
